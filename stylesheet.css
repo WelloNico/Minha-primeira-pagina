@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    margin: 0px;
+    border: 0px;
+    padding: 70px;
+    background-color: #EAEAEA;
+
+}
+
+.content{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+
+.Cabecario{
+    padding: 0px 40px 10px;
+}
+
+.Cabecario-titulo{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 5px;
+    font-weight: 400;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+    padding: 1em;
+}
+
+.Cabecario-img{
+    text-align: center;
+    width: 100%;
+    height: 250px;
+    align-items: center;
+    border-radius: 15px;
+
+}
+
+.Cabecario-descricao{
+    text-align: right;
+    width: 95%;
+    padding: 5px;
+    color: #A9A9A9;
+}
+
+.ConteudoPrincipal{
+    padding: 25px;
+}
+
+H2{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    padding: 5px;
+}
+
+H3{
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    padding: 5px;
+}
+
+ul{
+    padding: 15px;
+    list-style-type: disc;
+    line-height: 30px
+}
+
+ol{
+    padding: 15px;
+    list-style-type: number;
+    line-height: 30px;
+}
+
+.conteudo-Informacoes-Adicionais{
+    line-height: 30px;
+}
